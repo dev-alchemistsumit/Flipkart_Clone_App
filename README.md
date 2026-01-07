@@ -13,6 +13,7 @@ A Industry level Flipkart Clone App with Multiple products added to the with mul
 - Firebase Firestore
 - Firebase Auth 
 
-
+## Privacy Policy
+https://sites.google.com/view/sumit-suryawanshi-bargainbee/home
 
 ![image](https://github.com/thesumitsuryawanshi/Flipkart_Clone_App/assets/58788722/26614120-d1e2-4579-ace9-94e90397e9ae)
